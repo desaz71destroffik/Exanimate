@@ -196,3 +196,6 @@ This repository serves as the official landing page for Exanimate. The software 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Exanimate today!**
+
+---
+**Last updated:** 2026-11-08 13:06:50 UTC
