@@ -198,4 +198,4 @@ This repository serves as the official landing page for Exanimate. The software 
 **Get the most recent version of Exanimate today!**
 
 ---
-**Last updated:** 2026-11-14 10:00:46 UTC
+**Last updated:** 2026-11-14 16:55:10 UTC
